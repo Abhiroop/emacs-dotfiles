@@ -1,0 +1,10 @@
+git status
+git branch -a
+git checkout QUIN-2519-dashboard-filters
+git status
+git grep :post
+cd ..
+gti grep send-breaking-news-on-publish
+git grep send-breaking-news-on-publish
+pgcli -p 5438 -h localhost french_castle
+ghci
